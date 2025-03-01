@@ -2,7 +2,7 @@
 
 ## ?? О себе
 
-Intern Backend Developer без опыта, но имеющий несколько пет-проектов. Специализируюсь на C# и JavaScript.
+Intern Backend Developer без опыта, но имеющий несколько пет-проектов. Специализируюсь на C# и JavaScript. Знаю несколько UML-Диаграмм для проектирования приложений, а именно: Прецедентов, Активности, Деятельности, "Вороньи Лапки". Также знаю не большую теорию о тестировании, а именно методы тестирования: "Белого ящика" и "Черного ящика" и создание test-case. 
 
 ## ? Текущие проекты
 
@@ -18,5 +18,5 @@ Intern Backend Developer без опыта, но имеющий нескольк
 - Git.
 
 ## ? Контакты
-- Email: savvapugach2004@mail.ru / savvapugach24@gmail.com;
-- Telegram: @c0ffeequ.
+- Email: savvapugach2004@mail.ru / savvapugach24@gmail.com
+- Telegram: @c0ffeequ
